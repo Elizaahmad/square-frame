@@ -1,0 +1,10 @@
+body{
+    background-image:url("depositphotos_2831254-stock-illustration-colorful-square-background.jpeg");
+
+}
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+background-color: red;
+}
